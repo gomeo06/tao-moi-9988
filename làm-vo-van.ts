@@ -91,9 +91,3 @@ body {
     }
     100% {
         transform: translateX(0);
-    }
-}
-{
-    End
-}
-end
